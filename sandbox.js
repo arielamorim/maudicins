@@ -27,7 +27,7 @@ const medicins = [
         "id": 5,
         "name": "dorflex",
         "nao-compativeis": [],
-        "nao-testados": []
+        "nao-testados": [4, 3]
     }
 ];
 
