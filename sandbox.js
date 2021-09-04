@@ -22,6 +22,12 @@ const medicins = [
         "name": "cloroquiners",
         "nao-compativeis": [],
         "nao-testados": [1, 2, 3]
+    },
+    {
+        "id": 5,
+        "name": "dorflex",
+        "nao-compativeis": [],
+        "nao-testados": []
     }
 ];
 
